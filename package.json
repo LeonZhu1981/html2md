@@ -1,0 +1,14 @@
+{
+  "name": "html2md",
+  "version": "1.0.0",
+  "description": "convert html to markdown for go quick learn gitbook.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leon.x.zhu@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "to-markdown": "0.0.2"
+  }
+}
